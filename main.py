@@ -1,6 +1,6 @@
 # "Get" pdf file from document viewer at ir.vnulib.edu.vn
 # 1. Login at ir.vnulib.edu.vn and view the document 
-# 2. Go to developẻ mode (F12), use the network tab and get the query (something like this: view.php?doc=...)
+# 2. Go to developer mode (F12), switch to the network tab and get the query (something like this: view.php?doc=...)
 # 3. Get all nessesary modules
 # 4. Copy the link and edit the code
 
