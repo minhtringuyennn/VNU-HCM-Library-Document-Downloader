@@ -15,8 +15,8 @@ header = "https://ir.vnulib.edu.vn/flowpaper/services/view.php?doc=9103138882596
 footer = "&subfolder=91/03/13/"
 
 # Insert number of pages here
-indexPage = 0
 startPage = 0
+indexPage = startPage
 endPage = 166
 
 # Change directory here
